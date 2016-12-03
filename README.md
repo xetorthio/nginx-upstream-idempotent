@@ -4,6 +4,10 @@
 
 The Nginx idempotent module will avoid retying with POST requests.
 
+## Note
+This issue is fixed on Nginx 1.9.13.
+This module should not more requird for futur version.
+
 ## Installation
 
 You'll need to re-compile Nginx from source to include this module.
